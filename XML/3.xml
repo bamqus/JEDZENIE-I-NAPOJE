@@ -40,5 +40,12 @@
             <nabial="kefir" rodzaj="mleczny"></nabial>
         </koktajl>
 
+        <pancake>
+            <czas="10min" patelnia="20C"></czas>
+            <owoce="Truskawki" ilosc="20g"></owoce>
+            <cukier="brązowy" ilosc="4 lyzeczki"></cukier>
+            <nabial="mleko" rodzaj="krowi"></nabial>
+        </pancake>
+
 
     </slodkosci>
