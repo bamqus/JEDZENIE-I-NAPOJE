@@ -1,0 +1,44 @@
+[
+    {
+        "nazwa" : "Hamburger",
+        "ilość_kal" : 350,
+        "typ" : "fastfood",
+        "wege" : false,
+        "ile_złotych_kosztuje" : 12
+    },
+        {
+        "nazwa" : "Lody czekoladowe",
+        "ilość_kal" : 200,
+        "typ" : "słodkie",
+        "wege" : false,
+        "ile_złotych_kosztuje" : 6
+    },
+    {
+        "nazwa" : "Sok malinowy",
+        "ilość_kal" : 190,
+        "typ" : "słodkie",
+        "wege" : true,
+        "ile_złotych_kosztuje" : 6
+    },
+    {
+        "nazwa" : "Kanapka z szynką",
+        "ilość_kal" : 300,
+        "typ" : "słodkie",
+        "wege" : false,
+        "ile_złotych_kosztuje" : 7
+    },
+    {
+        "nazwa" : "Pizza z salami",
+        "ilość_kal" : 950,
+        "typ" : "fastfood",
+        "wege" : false,
+        "ile_złotych_kosztuje" : 40
+    },
+    {
+        "nazwa" : "Sałatka",
+        "ilość_kal" : 130,
+        "typ" : "zdrowe",
+        "wege" : true,
+        "ile_złotych_kosztuje" : 10
+    }
+]
