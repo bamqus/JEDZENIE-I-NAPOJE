@@ -1,0 +1,15 @@
+{
+    "woda_zdrowa": true,
+    "najlepsza_ryba": "Losos",
+    "ilosc_kcal_kobiety_dziennie": 1800,
+    "czas_robienia_jajecznicy_min": 20.5,
+    "rodzaje_placków": [
+        "slone: Placek ziemniaczany",
+        "slodkie: Szarlotka"
+    ],
+    "mcdonald_zdrowe": false,
+    "najlepsze_ciasto": "Kremowka",
+    "ilosc_kcal_mezczyzny_dziennie": 2500
+
+
+}
