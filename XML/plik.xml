@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <ciasta>
+   <szarlotka>
+       <składniki>jabłka, mleko, mąka</składniki>
+       <czas_pieczenia>90 minut</czas_pieczenia>
+       <forma>prostokątna o wymiarach 23x32 cm</forma>
+       <kaloryczność_w_100g>325 kcal</kaloryczność_w_100g>
+    </szarlotka>
+    <sernik>
+       <składniki>ser kozi, mleko, mąka, jajka</składniki>
+       <czas_pieczenia>60 minut</czas_pieczenia>
+       <forma>okrągła o średnicy 26 cm</forma>
+       <kaloryczność_w_100g>321 kcal</kaloryczność_w_100g>
+    </sernik>
+    <murzynek>
+       <składniki>kakao, mleko, jajka, mąka</składniki>
+       <czas_pieczenia>30 minut</czas_pieczenia>
+       <forma>prostokątna o wymiarach 25x40 cm</forma>
+       <kaloryczność_w_100g>427 kcal</kaloryczność_w_100g>
+    </murzynek>
+    <karpatka>
+       <składniki>mąka, jajka, mleko, budyń</składniki>
+       <czas_pieczenia>30 minut</czas_pieczenia>
+       <forma>okrągła o średnicy 32 cm</forma>
+       <kaloryczność_w_100g>398 kcal</kaloryczność_w_100g>
+    </karpatka>
+    <WZ>
+       <składniki>mąka, jajka, mleko, kakao, czekolada</składniki>
+       <czas_pieczenia>80 minut</czas_pieczenia>
+       <forma>prostokątna o wymiarach 25x40 cm</forma>
+       <kaloryczność_w_100g>350 kcal</kaloryczność_w_100g>
+    </WZ>
+    <fale_dunaju>
+       <składniki>jajka, mąka, mleko, kakao, śmietana</składniki>
+       <czas_pieczenia>90 minut</czas_pieczenia>
+       <forma>okrągła o średnicy 32 cm</forma>
+       <kaloryczność_w_100g>310 kcal</kaloryczność_w_100g>
+    </fale_dunaju>
+    </ciasta>
+    
+
+
