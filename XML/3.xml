@@ -1,0 +1,44 @@
+<?XML version="1.0" encoding="UTF-8"?>
+    <slodkosci>
+    
+        <kremowka>
+            <czas="1h" piekarniktemp="180C"></czas>
+            <mąka="pszenna" marka="Polskie Młyny"></mąka>
+            <cukier="biały" ilość="180g"></cukier>
+            <mleko="krowie" tłuszcz"2%"></mleko>
+        </kremowka>
+
+        <murzynek>
+            <czas="2h" piekarniktemp="180C"></czas>
+            <czekolada="gorzka" procent="96%"></czekolada>
+            <cukier="brązowy" ilość="100g"></cukier>
+            <proszek="do pieczenia" ilość"2tsp"></proszek>
+        </murzynek>
+
+        <sernik>
+            <czas="30min" pierkarniktemp="180C"></czas>
+            <ser="Twaróg" rodzaj="chudy"></ser>
+            <galaretka="Truskawkowa" marka="Dr. Oekter"></galaretka>
+            <owoce="maliny" ilość="500g"></owoce>
+
+        </sernik>
+
+        <kakao>
+            <czas="5min" mikrofalówka="1000w"></czas>
+            <proszek="czekoladowy" Marka="Nesqucick"></proszek>
+            <mleko="krowie" tłuszcz="2%"></mleko>
+            <dodatki="pianki" ilość="garść"></dodatki>
+
+
+        </kakao>
+
+
+        <koktajl>
+            <czas="5min" blender="200W"></czas>
+            <owoce="Truskawki" ilość="500g"></owoce>
+            <cukier="brązowy" ilość="2 łyżeczki"></mleko>
+            <nabiał="kefir" rodzaj="mleczny"></dodatki>
+        </koktajl>
+
+
+    </slodkosci>
