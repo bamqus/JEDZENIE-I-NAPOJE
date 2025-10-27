@@ -21,7 +21,6 @@ W tej tabeli jest pokazana kaloryczność różnego jedzenia i napoi. Jest ona p
 |------|----|---|---|
 |Frytki|140|70|280|  
 |Cola zero|2|1|4|
-|Hamburger|250|125|50|
 |Sałatka|50|25|100|
 # OBRAZY
 ![jedzenie](https://gdziejubileusz.pl/uploads/jedzenie-i-picie/galeria-jedzenie-i-picie-7298.jpeg)
